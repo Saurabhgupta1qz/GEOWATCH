@@ -79,7 +79,7 @@ GeoWatch AI helps authorities and environmental organizations monitor high-risk 
 ## Project Structure
 
 ```text
-GeoWatchAI
+GeoWatch
 │
 ├── Backend
 │   ├── armoriq_service.py
